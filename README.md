@@ -1,4 +1,4 @@
-# asreview-stopping-scripts
+# asreview-stopping-scripts [Obselete and out-dated]
 
 Scripts to compute stopping criteria
 
